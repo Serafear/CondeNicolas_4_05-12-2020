@@ -1,8 +1,12 @@
 {
+  "dependencies": {
+    "restore": "^0.3.0"
+  },
   "name": "condenicolas_4_05122020",
-  "version": "1.0.0",
   "description": "",
+  "version": "1.0.0",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +19,5 @@
   "bugs": {
     "url": "https://github.com/Serafear/CondeNicolas_4_05122020/issues"
   },
-  "homepage": "https://github.com/Serafear/CondeNicolas_4_05122020/Starting-website"
+  "homepage": "https://github.com/Serafear/CondeNicolas_4_05122020#Starting-website/index.html"
 }
