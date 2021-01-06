@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "js-library-detector": "^6.4.0",
     "restore": "^0.3.0"
   },
   "name": "condenicolas_4_05122020",
