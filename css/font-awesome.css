@@ -39,13 +39,7 @@
     font-style: normal;
     display: swap;
 }
-@font-face {
-    font-family: 'FontAwesome';
-    src: url('../fonts/et-line.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    display: swap;
-}
+
 
 .fa {
     display: inline-block;
