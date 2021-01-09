@@ -15,7 +15,9 @@
     "purify-css": "^1.2.5"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "critical": "node critical.js"
   },
   "repository": {
     "type": "git",
