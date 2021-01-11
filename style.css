@@ -824,6 +824,9 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.webp");
 }
+.col-sm-4 li {
+    padding-top: 10px;
+}
 
 @media (max-width: 1024px) {
     .bloc {
