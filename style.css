@@ -401,6 +401,12 @@ a:hover {
         float: none;
         margin: 10px auto 0;
     }
+    .white-1 {
+        font-size: 18px;
+    }
+    .social {
+        padding-left: 22px;
+    }
 }
 
 .nav > li > .dropdown a {
@@ -702,6 +708,9 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 10px;
 }
 
 h2 {
@@ -860,6 +869,7 @@ h4 {
     .b-parallax {
         background-attachment: scroll;
     }
+    
 }
 
 @media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
