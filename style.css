@@ -738,7 +738,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
-
+.col-sm-12 .white-1 {
+    color: #6D1025!important;
+}
 .portfolio-thumb {
     margin-bottom: 24px;
 }
@@ -775,17 +777,17 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #f3976c!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #6D1025!important;
 }
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-    color: #FFFFFF!important;
+    color: #6D1025!important;
 }
 
 .ltc-white {
@@ -826,6 +828,9 @@ h4 {
 }
 .col-sm-4 li {
     padding-top: 10px;
+}
+.col-sm-4 li a {
+    color: #3D0000!important;
 }
 
 @media (max-width: 1024px) {
