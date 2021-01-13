@@ -7,6 +7,10 @@ body {
     -moz-osx-font-smoothing: grayscale;
 }
 
+.form-group {
+    padding-bottom: 15px;
+}
+
 a,
 button {
     transition: all .3s ease-in-out;
@@ -152,6 +156,8 @@ a:hover {
 .d-bloc p a:hover {
     color: rgba(255, 255, 255, 1);
 }
+
+
 
 .d-bloc .navbar-toggle .icon-bar {
     background: rgba(255, 255, 255, 1);
@@ -747,7 +753,17 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.tc-white-1 {
+    color: black!important;
+    font-size: 20px;
+}
+.col-sm-12 h1 {
+    font-size: 35px;
+}
 .col-sm-12 .white-1 {
+    color: #6D1025!important;
+}
+.col-sm-6 {
     color: #6D1025!important;
 }
 .portfolio-thumb {
