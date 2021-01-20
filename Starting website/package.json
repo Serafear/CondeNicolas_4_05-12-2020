@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.0-beta1",
+    "js-library-detector": "^6.4.0",
+    "nginx-conf": "^2.0.0",
+    "nginx-node": "^0.0.2",
+    "restore": "^0.3.0"
+  },
+  "name": "condenicolas_4_05122020",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "critical": "^2.0.6",
+    "purify-css": "^1.2.5"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "critical": "node critical.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Serafear/CondeNicolas_4_05122020.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Serafear/CondeNicolas_4_05122020/issues"
+  },
+  "homepage": "https://github.com/Serafear/CondeNicolas_4_05122020#readme"
+}
